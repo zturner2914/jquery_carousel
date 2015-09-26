@@ -16,7 +16,7 @@ app.get('/getData', function(req, res){
     res.send(data);
 });
 
-var server = app.listen(3000, function() {
+var server = app.listen(process.env.PORT, function() {
     var port = server.address().port;
     console.log('Listening on port: ', port);
 });
