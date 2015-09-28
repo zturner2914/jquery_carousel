@@ -1,0 +1,16 @@
+body {
+    background-color: #342800;
+}
+
+.carousel {
+    height: 300px;
+    background-color: #E2DA99;
+}
+
+.carousel-inner {
+    width: 65%;
+    margin: 0 auto 0 auto;
+    color: maroon;
+    padding-top: 25px;
+    font-size: 16px;
+}
