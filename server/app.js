@@ -1,5 +1,5 @@
 var express = require('express');
-var data = require('../models/classmate');
+var data = require('./public/assets/data/classmate');
 var app = express();
 
 app.use(express.static(__dirname + '/public'));
