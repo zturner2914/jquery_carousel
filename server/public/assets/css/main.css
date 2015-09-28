@@ -1,19 +1,19 @@
 body {
-    background-color: #342800;
+    background-color: #393939;
 }
 h1 {
-    color: #5E9CAO;
+    color: #FF4A09;
     text-align: center;
 }
 .carousel {
     height: 300px;
-    background-color: #2B2301;
+    background-color: #6E6E6E;
 }
 
 .carousel-inner {
     width: 65%;
     margin: 0 auto 0 auto;
-    color: maroon;
+    color: #FF9900;
     padding-top: 25px;
     font-size: 16px;
 }
