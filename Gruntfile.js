@@ -20,7 +20,8 @@ module.exports = function(grunt) {
                     "jquery/dist/jquery.min.map",
                     "bootstrap/dist/css/bootstrap.min.css",
                     "bootstrap/dist/css/bootstrap.css.map",
-                    "bootstrap/dist/js/bootstrap.min.js"
+                    "bootstrap/dist/js/bootstrap.min.js",
+                    "bootstrap/dist/*/*"
                 ],
                 "dest": "server/public/vendor/"
             }
