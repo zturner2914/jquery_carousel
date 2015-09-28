@@ -2,8 +2,9 @@ body {
     background-color: #393939;
 }
 h1 {
-    color: #FF4A09;
+    color: #428F89;
     text-align: center;
+    padding-bottom: 20px;
 }
 .carousel {
     height: 300px;
@@ -13,7 +14,7 @@ h1 {
 .carousel-inner {
     width: 65%;
     margin: 0 auto 0 auto;
-    color: #FF9900;
-    padding-top: 25px;
+    color: #FFFFFF;
+    padding-top: 35px;
     font-size: 16px;
 }
