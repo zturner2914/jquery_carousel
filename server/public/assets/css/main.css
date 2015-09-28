@@ -20,3 +20,8 @@ h1 {
     padding-top: 30px;
     font-size: 16px;
 }
+
+image.resize {
+    width: 75%;
+    height: auto;
+}
