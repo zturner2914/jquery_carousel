@@ -5,8 +5,8 @@ h1 {
     color: #428F89;
     text-align: center;
     padding-bottom: 20px;
-    font-size: 42px;
-    font-family: 'Roboto';
+    font-size: 45px;
+    font-weight: bold;
 }
 .carousel {
     height: 300px;
@@ -17,7 +17,6 @@ h1 {
     width: 65%;
     margin: 0 auto 0 auto;
     color: #FFFFFF;
-    padding-top: 35px;
+    padding-top: 30px;
     font-size: 16px;
-    font-family: 'Roboto';
 }
