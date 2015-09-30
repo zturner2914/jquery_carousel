@@ -12,8 +12,7 @@ $(function(){
             }
             var content = "<div class='item" + active + "'><p>" + response[i].name + "</p><p>" + response[i].description + "</p><p>" + response[i].shoutouts + "</p></div>"
             $(".carousel-inner").append(content);
-            $(".carousel-indicators").append("<li data-target='#carousel-example-generic' data-slide-to='" + i + "' class='" + active + "'></li>");
-        }
+            $(".carousel-indicators").append("<li data-target='#carousel-example-generic' data-slide-to='" + i + "' class='" + active + "'></li>");}
 
         $('.carousel').carousel();
 
